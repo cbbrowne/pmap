@@ -8,7 +8,7 @@ Author: Andy Isaacson <adi@acm.org>
 See also: [http://web.hexapodia.org/~adi/pmap.c]
 
 Output looks like the following:
-
+```
 5345:   xterm -class UXTerm -title uxterm -u8 -geometry +1+1
 0000000000400000    408K r-x--  /usr/bin/xterm
 0000000000665000      4K r----  /usr/bin/xterm
@@ -113,3 +113,4 @@ Output looks like the following:
 00007fffb8fbe000      4K r-x--    [ anon ]
 ffffffffff600000      4K r-x--    [ anon ]
  total            66440K
+```
