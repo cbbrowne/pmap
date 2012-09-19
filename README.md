@@ -5,6 +5,8 @@ pmap.c: implementation of something like Solaris' /usr/proc/bin/pmap
 
 Author: Andy Isaacson <adi@acm.org>
 
+See also: [http://web.hexapodia.org/~adi/pmap.c]
+
 Output looks like the following:
 
 5345:   xterm -class UXTerm -title uxterm -u8 -geometry +1+1
